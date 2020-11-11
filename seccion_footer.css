@@ -1,0 +1,33 @@
+/*Seccion Footer (Pie de Pagina)*/
+footer{
+    background: #E9967A;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+    }
+    .seccion_footer{
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #615454;
+    }
+    .contenido_footer{
+    text-align: center;
+    }
+    .contenido_footer h4{
+    color: #fff;
+    border-bottom: 3px solid #aa1c28;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    }
+    .contenido_footer p{
+    color: #615454;
+    }
+    .titulo_final{
+        text-align: center;
+        font-size: 24px;
+        margin: 20px 0 0 0;
+        color: #080808;
+        }
